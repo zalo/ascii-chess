@@ -1,6 +1,6 @@
 # [ascii-chess](https://zalo.github.io/ascii-chess/)
 
-### An quick and dirty stockfish frontend for experimenting with chess ai.
+### A quick and dirty stockfish frontend for experimenting with chess ai.
 
 <a href="https://zalo.github.io/ascii-chess/"><img title="Default ASCII Chessboard" src="DefaultBoard.png"></a>
 
