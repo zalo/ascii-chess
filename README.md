@@ -1,8 +1,10 @@
-# [ascii-chess](https://zalo.github.io/ascii-chess)
+# [ascii-chess](https://zalo.github.io/ascii-chess/)
 
-### A minimalistic stockfish frontend for experimenting with chess ai.
+### An quick and dirty stockfish frontend for experimenting with chess ai.
 
-<a href="https://zalo.github.io/ascii-chess"><img title="Default ASCII Chessboard" src="DefaultBoard.png"></a>
+<a href="https://zalo.github.io/ascii-chess/"><img title="Default ASCII Chessboard" src="DefaultBoard.png"></a>
+
+Use your mouse to drag pieces around; only valid moves will register.
 
 ## Credits
 
