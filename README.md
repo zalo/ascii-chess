@@ -9,3 +9,4 @@ Use your mouse to drag pieces around; only valid moves will register.
 ## Credits
 
 ascii-chess is based on [stockfish.wasm](https://github.com/niklasf/stockfish.wasm) by @niklasf
+[coi-serviceworker](https://github.com/gzuidhof/coi-serviceworker) by @gzuidhof fixes SharedArrayBuffer support
